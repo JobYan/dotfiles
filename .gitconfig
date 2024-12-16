@@ -1,0 +1,9 @@
+[user]
+	name = JobYan
+	email = jobyan@foxmail.com
+[color]
+	ui = auto
+[core]
+	autocrlf = input
+[include]
+	path = ~/.config/gitalias/gitalias.txt
